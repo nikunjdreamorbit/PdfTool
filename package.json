@@ -1,0 +1,24 @@
+{
+  "name": "PdfTool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikunjdreamorbit/PdfTool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikunjdreamorbit/PdfTool/issues"
+  },
+  "homepage": "https://github.com/nikunjdreamorbit/PdfTool#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "pdf-lib": "^1.17.1"
+  }
+}
